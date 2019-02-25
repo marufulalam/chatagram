@@ -157,7 +157,7 @@ export default class HomeScreen extends React.Component {
               value={this.state.caption}
             />
 
-            <Button onPress={this.pickImage} title="Upload new image" style={{ width: 100, paddingTop: 20 }} />
+            <Button onPress={this.pickImage} title="Upload new images" style={{ width: 100, paddingTop: 20 }} />
           </View>
         </View>
 
