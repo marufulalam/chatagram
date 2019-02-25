@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 import 'firebase/firestore'
 const config = {
-  apiKey: "AIzaSyC7kIJ7T1sLRWYT8yhirrLOuEw-5MSEVg4",
-  authDomain: "cp3700-f5264.firebaseapp.com",
-  databaseURL: "https://cp3700-f5264.firebaseio.com",
-  projectId: "cp3700-f5264",
-  storageBucket: "cp3700-f5264.appspot.com",
-  messagingSenderId: "143283342395"
+  apiKey: "AIzaSyBEwTOEO1HF5rXaxV9cGdR3-7B0RNzaJ1o",
+  authDomain: "newproject-d4b87.firebaseapp.com",
+  databaseURL: "https://newproject-d4b87.firebaseio.com",
+  projectId: "newproject-d4b87",
+  storageBucket: "newproject-d4b87.appspot.com",
+  messagingSenderId: "447445225339"
 };
 firebase.initializeApp(config);
 
